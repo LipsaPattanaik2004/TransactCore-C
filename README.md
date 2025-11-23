@@ -1,12 +1,12 @@
 # TransactCore-C
-
 **TransactCore-C** — Core transaction engine implemented in **C** with **SQLite** persistence.
-
 **Tech:** C | SQLite | Structured Programming | Transactions | CLI
 
 ## Project summary
 TransactCore-C is a compact, production-minded transaction-processing engine written in C.  
 It demonstrates systems programming concepts and reliable database integration using SQLite. The program supports account creation, deposits, withdrawals, transfers, and maintains timestamped transaction logs — making it suitable for showcasing C + SQL skills on a resume or GitHub portfolio.
+
+### AUTHOR - LIPSA || ITER SOA UNIVERSITY
 
 ## Features
 - Create accounts with unique IDs and initial balance.
@@ -45,7 +45,7 @@ Transfer from account 1 to account 2 → verify both balances and transactions
 Schema (reference)
 schema.sql — contains:
 CREATE TABLE accounts (...);
-CREATE TABLE transactions (...);
+CREATE TABLE transactions (...); 
 
-#LIPSA PATTANAIK | ITER SOA UNIVERSITY
+
 
