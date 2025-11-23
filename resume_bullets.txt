@@ -1,0 +1,3 @@
+• Built a C-based mini transaction engine using SQLite.
+• Implemented atomic operations with BEGIN/COMMIT.
+• Practiced modular database design using schema.sql.
